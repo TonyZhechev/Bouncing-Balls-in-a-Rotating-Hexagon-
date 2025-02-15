@@ -69,10 +69,11 @@ git push origin new-feature
 💬 Got questions or suggestions? Reach out via:
 
 GitHub Issues – Report bugs & request features.
-Email – your.email@example.com
+Email – zhechevtony@gmail.com
+
+
 🔥 Future Improvements (Next Steps)
 🚀 Planned Features:
-
 ✅ Add ball-to-ball collisions.
 ✅ Implement variable rotation speeds for the hexagon.
 ✅ Introduce different ball sizes & behaviors.
