@@ -81,12 +81,3 @@ Email – zhechevtony@gmail.com
 ⭐ Support the Project
 If you like this project, please star ⭐ the repository on GitHub! It helps others discover it. 😊
 
-✅ Summary
-This detailed README makes your GitHub repository stand out professionally! It includes:
-✔️ Clear Overview
-✔️ Features List
-✔️ Installation & Usage Instructions
-✔️ Demo Screenshots & GIFs
-✔️ License & Contribution Guidelines
-
-Now your project looks professional & impressive for your portfolio! 🚀 Let me know if you need more improvements. 😊
